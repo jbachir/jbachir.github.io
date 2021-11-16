@@ -2487,7 +2487,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #ed4933;
+			background-color: #a12d29;
 			box-shadow: none !important;
 			color: #ffffff !important;
 		}
@@ -2817,7 +2817,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #913532;
+			background-color: #a12d29;
 			color: #c8ece9;
 		}
 
